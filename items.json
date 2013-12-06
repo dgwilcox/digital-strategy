@@ -442,7 +442,7 @@
         "fields": [{
             "type": "textarea",
             "name": "1-2-6-customer-feedback-process",
-            "label": "Describe the agency's process to engage with customers",
+            "label": "In support and compliance of the Open Data Policy, SBA is in the process of developing an open Data Policy - Customer Feedback Process, to assist and support users of SBA data assets. Once this policy has been approved and implemented, stakeholders and customers of SBA data will interact with SBA personnel and Program Offices to provide comments, questions, and/or answers.",
             "options": [],
             "value": null
         }],
